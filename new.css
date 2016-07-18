@@ -1,0 +1,256 @@
+body {
+	
+	margin:0px;
+	padding: 0px;
+	font-family: "Lato";
+    font-size: 16px;
+    color: #555;
+
+  
+
+}
+
+.m0-p0 {
+	margin:0px;;
+	padding:0px;
+
+
+}
+
+.verticalSpacer {
+	height: 30px;
+}
+.fontWeight {
+	font-weight: lighter;
+}
+
+.lineHeight {
+	line-height: 30px;
+}
+
+.firstColor{
+	color: white;
+	font-weight: lighter;
+}
+
+.secondColor {
+	color:#555555;
+
+}
+
+.thirdColor {
+	color:#3498DB;
+}
+
+
+.borderRadiusNone {
+
+	border-radius: 0px;
+}
+
+.borderRadiusNone i {
+	color:white;
+
+	
+}
+
+.borderRadiusNone a {
+	padding:10px;
+}
+
+
+#slider {
+
+	 background:url("img/header_bg.jpg") ;
+	 background-size:cover;
+	 height: 550px;
+	 text-align: center;
+	 
+
+}
+
+#slider h1 {
+
+	
+	line-height: 50px;
+	word-spacing: 6px;
+	text-shadow: 1px 1px black;
+
+}
+#slider i{
+	padding-top: 200px;
+	text-shadow: 1px 1px black;
+}
+
+.retina div {
+	background-color: #F5F5F5;
+	height: 315px;
+
+	text-align:center;
+	
+
+}
+.retina p {
+	line-height: 30px;
+
+}
+
+.paddingTop {
+	padding-top: 30px;
+}
+
+
+#about  div.first {
+
+	height: 140px;
+	background-color: white;
+}
+
+
+#about  div.second {
+
+	height: 200px;
+	background-color: white;
+	
+}
+
+ div.line {
+
+	border-top:1px solid ;
+	opacity: 0.3;
+}
+
+#about h1{
+	padding-top: 30px;
+
+}
+
+.second p{
+	line-height: 25px;
+	padding: 35px;
+	padding-top: 0px;
+}
+
+#expand  div.img{
+	height: 350px;
+	background-color: blue;
+	background: url("img/bg/divider1.jpg");
+	background-size:cover;
+
+}
+
+#expand h1 {
+	padding-top: 120px;
+}
+
+#expand h3 {
+	padding-top: 20px;
+}
+
+.brandMiddle {
+	height: auto;
+	background-color: white;
+}
+
+#brand p {
+	line-height: 25px;
+	padding-top: 45px;
+	
+}
+
+#brand{
+
+	padding:30px;
+	height: auto;
+}
+
+#phone {
+	height: 550px;
+	
+}
+
+#design {
+	height: 350px;
+	background-color: red;
+	background: url("img/bg/divider2.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#design{
+	padding: 100px;
+}
+
+#team {
+	min-height: 580px;
+	
+}
+
+#team .row div {
+
+	height: 400px;
+	
+}
+
+#team .row p {
+
+	line-height:25px;
+	padding-top: 40px;
+}
+
+#hiring {
+	 min-height: 500px;
+	 background-color: #F5F5F5;
+	 padding: 40px;
+}
+#hiring .row div {
+	
+	
+	min-height: auto;
+	padding: 80px;
+	
+}
+#hiring .row h2{
+	padding-top: 50px;
+}
+
+#hiring .row p {
+
+    padding-bottom: 50px ;
+
+}
+
+#solve {
+	padding: 100px;
+}
+
+#solve {
+	min-height: 350px;
+	background-color: red;
+	background: url("img/bg/divider3.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#stuff .row div {
+	
+	
+	
+	margin: 45px;
+}
+
+.imgWidth {
+	width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
